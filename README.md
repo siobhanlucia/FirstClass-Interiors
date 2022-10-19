@@ -1,2 +1,2 @@
 # FirstClass Interiors
-Captivate Interiors team project
+Description of Project, Purpose, Your Company Credits
